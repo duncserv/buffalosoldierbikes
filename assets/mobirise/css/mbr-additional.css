@@ -1207,3 +1207,29 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-s9nhw7thBW {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-s9nhw7thBW .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-s9nhw7thBW .card-wrapper {
+  padding: 3rem;
+  background: #fafafa;
+  border-radius: 4px;
+}
+@media (max-width: 992px) {
+  .cid-s9nhw7thBW .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s9nhw7thBW .card-wrapper {
+    padding: 3rem 1rem;
+  }
+}
